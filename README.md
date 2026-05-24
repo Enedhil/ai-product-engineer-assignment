@@ -36,13 +36,9 @@ Előfeltételek:
 
 Telepítés és indítás:
     Töltsd le a forráskódot (vagy klónozd a GitHub repót).
-
     Nyiss egy terminált a projekt gyökérmappájában (funnel-app).
-
     Telepítsd a függőségeket:
         npm install
-
     Indítsd el a fejlesztői szervert:
         npm run dev
-
     Nyisd meg a böngésződben a terminál által kiírt URL-t (alapértelmezetten: http://localhost:5173/).
