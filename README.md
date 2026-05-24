@@ -31,14 +31,17 @@
     A/B Tesztelés vizualizáció: Lehetőség két azonos kampány tölcsérének egymás mellé tételére és összehasonlítására.
 
 5. How to Run It (Futtatási útmutató)
-Előfeltételek:
-    Node.js: v18.x vagy újabb (ajánlott az LTS verzió)
+
+Előfeltételek: Node.js: v18.x vagy újabb (ajánlott az LTS verzió)
 
 Telepítés és indítás:
-    Töltsd le a forráskódot (vagy klónozd a GitHub repót).
-    Nyiss egy terminált a projekt gyökérmappájában (funnel-app).
-    Telepítsd a függőségeket:
-        npm install
-    Indítsd el a fejlesztői szervert:
-        npm run dev
-    Nyisd meg a böngésződben a terminál által kiírt URL-t (alapértelmezetten: http://localhost:5173/).
+
+Töltsd le a forráskódot (vagy klónozd a GitHub repót).
+
+Nyiss egy terminált a projekt gyökérmappájában (funnel-app).
+
+Telepítsd a függőségeket:"npm install"
+
+Indítsd el a fejlesztői szervert:"npm run dev"
+
+Nyisd meg a böngésződben a terminál által kiírt URL-t (alapértelmezetten: http://localhost:5173/).
